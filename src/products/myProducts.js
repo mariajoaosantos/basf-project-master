@@ -89,7 +89,7 @@ const Products = {
         style={{ width: 30, height: 30 }}
       />
     ),
-    ingredients: ["pedritas da calçada", "xixi", "cocó", "fezes"],
+    ingredients: ["null"],
   },
 };
 
